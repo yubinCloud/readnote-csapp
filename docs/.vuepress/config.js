@@ -3,31 +3,31 @@ module.exports = {
   description: 'Just playing around',
   base: '/readnote-csapp/',
   theme: 'antdocs',
-  repo: 'https://github.com/yubinCloud/readnote-csapp',
-  repoLabel: '查看源码',
-  editLinks: true,
-  editLinkText: '帮助我们改善此页面！',
-  themeConfig: {
-    lastUpdated: 'Last Updated',
-    sidebar: [
-      {
-        title: 'read note',   // 必要的
-        collapsable: false,
-        sidebarDepth: 0,
-        children: [
-          {
-            title: '2-信息的表示与处理',
-            path: '/note/ch2/',
-          },
-        ]
-      },
-    ],
+
+  markdown: {
+    lineNumbers: true,
   },
 
-  plugins: [
-    '@vuepress/back-to-top',
-    'vuepress-plugin-mathjax',
-    ['vuepress-plugin-code-copy', true],
-  ],
+  themeConfig: {
+    lastUpdated: 'Last Updated',
+    repo: 'https://github.com/yubinCloud/readnote-csapp',
+    repoLabel: '查看源码',
+    sidebar: 'auto',
+
+    nav: [
+      {
+        text: 'Read Note',
+        items: [
+          { text: '2-信息的处理与表示', link: '/note/ch2/' },
+          { text: '3-程序的机器级表示', link: '/note/ch3/' }
+        ]
+      }
+    ],
+
+    plugins: [
+      '@vuepress/back-to-top',
+      'vuepress-plugin-mathjax',
+      ['vuepress-plugin-code-copy', true],
+    ],
+  }
 }
-  

@@ -17,12 +17,7 @@ actionBtn:
   type: primary
   ghost: false
   size: large
-preactionBtn:
-  text: Playground
-  link: /guide/test
-  type: primary
-  ghost: true
-  size: large
+
 
 footer: MIT Licensed | Copyright © 2021-present yubin
 ---

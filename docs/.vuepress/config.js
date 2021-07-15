@@ -9,6 +9,7 @@ module.exports = {
   },
 
   themeConfig: {
+    logo: '/favicon.ico',
     lastUpdated: 'Last Updated',
     repo: 'https://github.com/yubinCloud/readnote-csapp',
     repoLabel: '查看源码',

@@ -8,6 +8,13 @@ module.exports = {
     lineNumbers: true,
   },
 
+  locales: {
+    // 作为特例，默认语言可以使用 '/' 作为其路径。
+    '/': {
+      lang: 'zh-CN', // 将会被设置为 <html> 的 lang 属性
+    },
+  },
+
   themeConfig: {
     logo: '/favicon.ico',
     lastUpdated: 'Last Updated',

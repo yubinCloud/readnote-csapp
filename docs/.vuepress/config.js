@@ -5,7 +5,7 @@ module.exports = {
   theme: 'antdocs',
 
   head: [
-    ['link', { rel: 'icon', href: '/favicon.ico' }]
+    ['link', { rel: 'icon', href: `/favicon.ico` }]
   ],
 
   markdown: {

@@ -2,7 +2,7 @@ module.exports = {
   title: 'CSAPP Readnote',
   description: 'Just playing around',
   base: '/readnote-csapp/',
-  theme: 'antdocs',
+  theme: 'reco',
 
   head: [
     ['link', { rel: 'icon', href: `/favicon.ico` }]
@@ -20,6 +20,18 @@ module.exports = {
     },
   },
 
+  plugins: [
+    '@vuepress/back-to-top',
+    [
+      // 支持数学公式
+      // https://vuepress.github.io/zh/plugins/mathjax/
+      // npm install -D vuepress-plugin-mathjax
+      'vuepress-plugin-mathjax',
+      {}
+    ],
+    ['vuepress-plugin-code-copy', true],
+  ],
+
   themeConfig: {
     logo: '/favicon.ico',
     lastUpdated: 'Last Updated',
@@ -35,12 +47,6 @@ module.exports = {
           { text: '3-程序的机器级表示', link: '/note/ch3/' }
         ]
       }
-    ],
-
-    plugins: [
-      '@vuepress/back-to-top',
-      'vuepress-plugin-mathjax',
-      ['vuepress-plugin-code-copy', true],
     ],
   }
 }

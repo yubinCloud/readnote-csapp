@@ -4,6 +4,10 @@ module.exports = {
   base: '/readnote-csapp/',
   theme: 'antdocs',
 
+  head: [
+    ['link', { rel: 'icon', href: '/favicon.ico' }]
+  ],
+
   markdown: {
     lineNumbers: true,
   },

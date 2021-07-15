@@ -5,7 +5,9 @@ module.exports = {
   theme: 'antdocs',
 
   head: [
-    ['link', { rel: 'icon', href: `/favicon.ico` }]
+    ['link', { rel: 'icon', href: `/favicon.ico` }],
+    // baidu 统计
+    ["script", {src: "https://hm.baidu.com/hm.js?d0bc939bf51d0eb349452f93e92f69b8"}]
   ],
 
   markdown: {

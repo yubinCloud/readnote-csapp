@@ -22,6 +22,12 @@ module.exports = {
         ]
       },
     ],
-  }
+  },
+
+  plugins: [
+    '@vuepress/back-to-top',
+    'vuepress-plugin-mathjax',
+    ['vuepress-plugin-code-copy', true],
+  ],
 }
   

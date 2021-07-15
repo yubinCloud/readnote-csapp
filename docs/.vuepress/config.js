@@ -2,7 +2,7 @@ module.exports = {
   title: 'CSAPP Readnote',
   description: 'Just playing around',
   base: '/readnote-csapp/',
-  theme: 'reco',
+  theme: 'antdocs',
 
   head: [
     ['link', { rel: 'icon', href: `/favicon.ico` }]

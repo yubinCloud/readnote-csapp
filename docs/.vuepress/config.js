@@ -10,6 +10,7 @@ module.exports = {
 
   markdown: {
     lineNumbers: true,
+    toc: { includeLevel: [0, 1, 2] }
   },
 
   locales: {

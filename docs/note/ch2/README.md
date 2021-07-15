@@ -122,6 +122,4 @@ C 语言未明确定义采用哪种
 
 ### 定义 
 
-$$
-B2U_w(\vec{x}) \triangleq \sum_{i=0}^{w-1}{x_i 2^i}
-$$
+$$B2U_w(\vec{x}) \triangleq \sum_{i=0}^{w-1}{x_i 2^i}$$

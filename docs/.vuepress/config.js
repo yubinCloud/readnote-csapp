@@ -32,13 +32,31 @@ module.exports = {
       {}
     ],
     ['vuepress-plugin-code-copy', true],
+    ['homebadge',{
+      selector: '.hero',
+      repoLink: 'https://github.com/yubinCloud/readnote-csapp',
+      badgeLink: 'https://img.shields.io/github/stars/yubincloud/readnote-csapp?style=social',
+    }],
   ],
 
   themeConfig: {
     logo: '/favicon.ico',
     lastUpdated: 'Last Updated',
-    repo: 'https://github.com/yubinCloud/readnote-csapp',
+    repo: 'yubincloud/readnote-csapp',
     repoLabel: '查看源码',
+    // 假如你的文档仓库和项目本身不在一个仓库：
+    docsRepo: 'yubincloud/readnote-csapp',
+    // 假如文档不是放在仓库的根目录下：
+    docsDir: 'docs',
+    // 假如文档放在一个特定的分支下：
+    docsBranch: 'main',
+    // 默认是 false, 设置为 true 来启用
+    editLinks: true,
+    // 默认为 "Edit this page"
+    editLinkText: '在 GitHub 上编辑此页面',
+
+    smoothScroll: true,
+
     sidebar: 'auto',
 
     nav: [

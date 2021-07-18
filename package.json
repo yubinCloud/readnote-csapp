@@ -13,6 +13,7 @@
     "@vuepress/plugin-back-to-top": "^1.8.2",
     "vuepress": "^1.8.2",
     "vuepress-plugin-code-copy": "^1.0.6",
+    "vuepress-plugin-homebadge": "^0.1.0",
     "vuepress-plugin-mathjax": "^1.2.8"
   },
   "dependencies": {

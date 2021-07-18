@@ -24,3 +24,6 @@ footer: MIT Licensed | Copyright © 2021-present yubin
 
 ## 页面导航
 
+[Chapter 2 信息的处理与表示](/note/ch2/)
+
+[Chapter 3 程序的机器级表示](/note/ch3/)

@@ -936,6 +936,15 @@
   resolved "https://registry.nlark.com/@nodelib/fs.stat/download/@nodelib/fs.stat-1.1.3.tgz?cache=0&sync_timestamp=1622792705142&other_urls=https%3A%2F%2Fregistry.nlark.com%2F%40nodelib%2Ffs.stat%2Fdownload%2F%40nodelib%2Ffs.stat-1.1.3.tgz#2b5a3ab3f918cca48a8c754c08168e3f03eba61b"
   integrity sha1-K1o6s/kYzKSKjHVMCBaOPwPrphs=
 
+"@shigma/stringify-object@^3.3.0":
+  version "3.3.0"
+  resolved "https://registry.nlark.com/@shigma/stringify-object/download/@shigma/stringify-object-3.3.0.tgz#c6611dcdf650024a9f6397580f821accd3021be3"
+  integrity sha1-xmEdzfZQAkqfY5dYD4IazNMCG+M=
+  dependencies:
+    get-own-enumerable-property-symbols "^3.0.0"
+    is-obj "^1.0.1"
+    is-regexp "^2.0.0"
+
 "@simonwep/pickr@~1.7.0":
   version "1.7.4"
   resolved "https://registry.nlark.com/@simonwep/pickr/download/@simonwep/pickr-1.7.4.tgz#b14fcd945890388b870cd6db4d6c78d531f25141"
@@ -1208,6 +1217,13 @@
   integrity sha1-fOaJ+NUFDPAhOUm8LlqoecCf9LE=
   dependencies:
     cross-spawn "^6.0.5"
+
+"@vuepress/plugin-medium-zoom@^1.8.2":
+  version "1.8.2"
+  resolved "https://registry.nlark.com/@vuepress/plugin-medium-zoom/download/@vuepress/plugin-medium-zoom-1.8.2.tgz#0243dd27edf0c710f9a41a234d253d76ab51e625"
+  integrity sha1-AkPdJ+3wxxD5pBojTSU9dqtR5iU=
+  dependencies:
+    medium-zoom "^1.0.4"
 
 "@vuepress/plugin-nprogress@1.8.2":
   version "1.8.2"
@@ -3817,6 +3833,11 @@ get-intrinsic@^1.0.2, get-intrinsic@^1.1.1:
     has "^1.0.3"
     has-symbols "^1.0.1"
 
+get-own-enumerable-property-symbols@^3.0.0:
+  version "3.0.2"
+  resolved "https://registry.npm.taobao.org/get-own-enumerable-property-symbols/download/get-own-enumerable-property-symbols-3.0.2.tgz#b5fde77f22cbe35f390b4e089922c50bce6ef664"
+  integrity sha1-tf3nfyLL4185C04ImSLFC85u9mQ=
+
 get-stream@^4.0.0, get-stream@^4.1.0:
   version "4.1.0"
   resolved "https://registry.npm.taobao.org/get-stream/download/get-stream-4.1.0.tgz#c1b255575f3dc21d59bfc79cd3d2b46b1c3a54b5"
@@ -4625,6 +4646,11 @@ is-number@^7.0.0:
   resolved "https://registry.npm.taobao.org/is-number/download/is-number-7.0.0.tgz#7535345b896734d5f80c4d06c50955527a14f12b"
   integrity sha1-dTU0W4lnNNX4DE0GxQlVUnoU8Ss=
 
+is-obj@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.npm.taobao.org/is-obj/download/is-obj-1.0.1.tgz#3e4729ac1f5fde025cd7d83a896dab9f4f67db0f"
+  integrity sha1-PkcprB9f3gJc19g6iW2rn09n2w8=
+
 is-obj@^2.0.0:
   version "2.0.0"
   resolved "https://registry.npm.taobao.org/is-obj/download/is-obj-2.0.0.tgz#473fb05d973705e3fd9620545018ca8e22ef4982"
@@ -4673,6 +4699,11 @@ is-regex@^1.0.4, is-regex@^1.1.3:
   dependencies:
     call-bind "^1.0.2"
     has-symbols "^1.0.2"
+
+is-regexp@^2.0.0:
+  version "2.1.0"
+  resolved "https://registry.nlark.com/is-regexp/download/is-regexp-2.1.0.tgz#cd734a56864e23b956bf4e7c66c396a4c0b22c2d"
+  integrity sha1-zXNKVoZOI7lWv058ZsOWpMCyLC0=
 
 is-resolvable@^1.0.0:
   version "1.1.0"
@@ -5193,6 +5224,11 @@ media-typer@0.3.0:
   version "0.3.0"
   resolved "https://registry.npm.taobao.org/media-typer/download/media-typer-0.3.0.tgz#8710d7af0aa626f8fffa1ce00168545263255748"
   integrity sha1-hxDXrwqmJvj/+hzgAWhUUmMlV0g=
+
+medium-zoom@^1.0.4:
+  version "1.0.6"
+  resolved "https://registry.npm.taobao.org/medium-zoom/download/medium-zoom-1.0.6.tgz#9247f21ca9313d8bbe9420aca153a410df08d027"
+  integrity sha1-kkfyHKkxPYu+lCCsoVOkEN8I0Cc=
 
 memory-fs@^0.4.1:
   version "0.4.1"
@@ -7999,6 +8035,13 @@ vuepress-plugin-container@^2.0.2:
   dependencies:
     "@vuepress/shared-utils" "^1.2.0"
     markdown-it-container "^2.0.0"
+
+vuepress-plugin-copyright@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.npm.taobao.org/vuepress-plugin-copyright/download/vuepress-plugin-copyright-1.0.2.tgz#d5cc73af82028e073d4cd82e3ef99012ad8f79cc"
+  integrity sha1-1cxzr4ICjgc9TNguPvmQEq2Pecw=
+  dependencies:
+    "@shigma/stringify-object" "^3.3.0"
 
 vuepress-plugin-homebadge@^0.1.0:
   version "0.1.0"

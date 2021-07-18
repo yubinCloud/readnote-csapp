@@ -37,6 +37,8 @@ module.exports = {
       repoLink: 'https://github.com/yubinCloud/readnote-csapp',
       badgeLink: 'https://img.shields.io/github/stars/yubincloud/readnote-csapp?style=social',
     }],
+    '@vuepress/medium-zoom',
+    'copyright',
   ],
 
   themeConfig: {

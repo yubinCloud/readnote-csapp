@@ -12,7 +12,7 @@ actionBtn:
   size: large
 
 
-footer: MIT Licensed | Copyright © 2021-present yubin
+footer: GNU Licensed | Copyright © 2021-present yubin
 ---
 
 ## <a-icon type="bars" /> 页面导航

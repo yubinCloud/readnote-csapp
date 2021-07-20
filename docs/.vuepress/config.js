@@ -44,7 +44,7 @@ module.exports = {
       updatePopup: true
     }],
     ['vuepress-plugin-zooming', {}],
-    
+    'img-lazy',
   ],
 
   themeConfig: {

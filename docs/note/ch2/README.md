@@ -1,5 +1,7 @@
 ---
 title: Chapter 2 信息的处理与表示
+prev: false
+next: /note/ch3/assembly-basic
 ---
 
 Chapter 2 信息的处理与表示

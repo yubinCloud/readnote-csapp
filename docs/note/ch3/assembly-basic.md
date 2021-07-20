@@ -1,12 +1,14 @@
 ---
-title: Chapter 3-I 汇编基础
+title: Chapter 3 程序的机器级表示 I：汇编基础 
+prev: /note/ch2/
+next: /note/ch3/control
 ---
 
 Chapter 3 程序的机器级表示 I：汇编基础
 
 [[toc]]
 
-# I 汇编基础
+# I（3.1 - 3.5）汇编基础
 
 ## 3.1 历史观点
 

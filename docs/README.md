@@ -22,3 +22,4 @@ footer: GNU Licensed | Copyright © 2021-present yubin
 [Chapter 3 程序的机器级表示](/note/ch3/)
 
 + [I 汇编基础](/note/ch3/assembly-basic)
++ [II 控制](/note/ch3/control)

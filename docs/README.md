@@ -24,3 +24,4 @@ footer: GNU Licensed | Copyright © 2021-present yubin
 + [I 汇编基础](/readnote-csapp/note/ch3/assembly-basic)
 + [II 控制](/readnote-csapp/note/ch3/control)
 + [III 过程](/readnote-csapp/note/ch3/procedures)
++ [IV 数据](/readnote-csapp/note/ch3/data)

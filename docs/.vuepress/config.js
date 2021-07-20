@@ -79,6 +79,7 @@ module.exports = {
               { text: '3-I 汇编基础', link: '/note/ch3/assembly-basic' },
               { text: '3-II 控制', link: '/note/ch3/control' },
               { text: '3-III 过程', link: '/note/ch3/procedures' },
+              { text: '3-IV 数据', link: '/note/ch3/data' },
             ]
           }
         ]

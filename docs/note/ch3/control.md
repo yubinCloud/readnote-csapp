@@ -1,6 +1,7 @@
 ---
 title: Chapter 3 程序的机器级表示 II：控制
 prev: /note/ch3/assembly-basic
+next: /note/ch3/procedures
 ---
 
 Chapter 3 程序的机器级表示 II：控制

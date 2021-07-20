@@ -78,6 +78,7 @@ module.exports = {
             items: [
               { text: '3-I 汇编基础', link: '/note/ch3/assembly-basic' },
               { text: '3-II 控制', link: '/note/ch3/control' },
+              { text: '3-III 过程', link: '/note/ch3/procedures' },
             ]
           }
         ]

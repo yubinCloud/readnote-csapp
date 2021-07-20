@@ -39,6 +39,10 @@ module.exports = {
     }],
     '@vuepress/medium-zoom',
     'copyright',
+    ['@vuepress/pwa', {
+      serviceWorker: true,
+      updatePopup: true
+    }],
   ],
 
   themeConfig: {

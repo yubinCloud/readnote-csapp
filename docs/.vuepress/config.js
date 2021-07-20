@@ -66,7 +66,11 @@ module.exports = {
         text: '章节列表 ∨',
         items: [
           { text: '2-信息的处理与表示', link: '/note/ch2/' },
-          { text: '3-程序的机器级表示', link: '/note/ch3/' }
+          {
+            text: '3-程序的机器级表示',
+            link: '/note/ch3/',
+            items: [{ text: '3-I 汇编基础', link: '/note/ch3/assembly-basic'}]
+          }
         ]
       }
     ],

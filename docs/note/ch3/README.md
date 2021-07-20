@@ -6,6 +6,6 @@ Chapter 3 程序的机器级表示
 
 ## 章内导航
 
-[part1 汇编基础](/note/ch3/assembly-basic)
+[part1 汇编基础](/note/ch3/assembly-basic.html)
 
-[part2 控制](/note/ch3/control)
+[part2 控制](/note/ch3/control.html)

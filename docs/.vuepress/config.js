@@ -68,6 +68,8 @@ module.exports = {
 
     sidebar: 'auto',
 
+    searchMaxSuggestions: 20,
+
     nav: [
       {
         text: '章节列表 ∨',

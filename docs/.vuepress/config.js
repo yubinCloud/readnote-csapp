@@ -46,6 +46,19 @@ module.exports = {
     }],
     ['vuepress-plugin-zooming', {}],
     'img-lazy',
+    [
+      "vuepress-plugin-comment",
+      {
+        choosen: "valine",
+        // options选项中的所有参数，会传给Valine的配置
+        options: {
+          el: "#valine-vuepress-comment",
+          appId: "JlhwpBd8TDaSvOyCS3qXBiX3-gzGzoHsz",
+          appKey: "OleR4EpPUuxN7yOQ23FdvOde",
+          path: '<%- frontmatter.to.path %>'
+        }
+      }
+    ],
   ],
 
   themeConfig: {

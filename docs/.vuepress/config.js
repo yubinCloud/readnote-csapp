@@ -81,6 +81,13 @@ module.exports = {
               { text: '3-III 过程', link: '/note/ch3/procedures' },
               { text: '3-IV 数据', link: '/note/ch3/data' },
             ]
+          },
+          {
+            text: '4-处理器体系结构',
+            link: '/note/ch4/',
+            items: [
+              { text: '4-I Y86-64 指令集体系结构', link: '/note/ch4/Y86-64-ISA' },
+            ]
           }
         ]
       },

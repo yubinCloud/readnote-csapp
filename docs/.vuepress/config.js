@@ -87,13 +87,14 @@ module.exports = {
             link: '/note/ch4/',
             items: [
               { text: '4-I Y86-64 指令集体系结构', link: '/note/ch4/Y86-64-ISA' },
+              { text: '4-II 逻辑设计与HCL', link: '/note/ch4/logic-design' },
             ]
           }
         ]
       },
       {
         text: 'GitHub',
-        link: 'https://github.com/yubincloud/readnote-csapp'
+        link: 'https://github.com/yubincloud/readnote-csapp',
       },
     ],
   }

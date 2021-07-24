@@ -29,3 +29,4 @@ footer: GNU Licensed | Copyright © 2021-present yubin
 [Chapter 3 处理器体系结构](/note/ch4/)
 
 + [I Y86-64 指令集体系结构](/readnote-csapp/note/ch4/Y86-64-ISA)
++ [II 逻辑设计和硬件控制语言 HCL](/readnote-csapp/note/ch4/logic-design)

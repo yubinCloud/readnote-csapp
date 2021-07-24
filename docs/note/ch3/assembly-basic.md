@@ -1,6 +1,6 @@
 ---
 title: Chapter 3 程序的机器级表示 I：汇编基础 
-prev: /note/ch2/
+prev: /note/ch3/
 next: /note/ch3/control
 ---
 

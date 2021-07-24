@@ -1,6 +1,7 @@
 ---
 title: Chapter 3 程序的机器级表示 IV：数据
 prev: /note/ch3/procedures
+next: /note/ch4/
 ---
 
 Chapter 3 程序的机器级表示 IV：数据

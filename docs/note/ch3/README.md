@@ -1,5 +1,7 @@
 ---
 title: Chapter 3 程序的机器级表示
+prev: /note/ch2/
+next: /note/ch3/assembly-basic
 ---
 
 Chapter 3 程序的机器级表示

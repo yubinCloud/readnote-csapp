@@ -25,3 +25,7 @@ footer: GNU Licensed | Copyright © 2021-present yubin
 + [II 控制](/readnote-csapp/note/ch3/control)
 + [III 过程](/readnote-csapp/note/ch3/procedures)
 + [IV 数据](/readnote-csapp/note/ch3/data)
+
+[Chapter 3 处理器体系结构](/note/ch4/)
+
++ [I Y86-64 指令集体系结构](/readnote-csapp/note/ch4/Y86-64-ISA)

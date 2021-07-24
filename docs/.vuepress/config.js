@@ -24,6 +24,7 @@ module.exports = {
 
   plugins: [
     '@vuepress/back-to-top',
+    ['fulltext-search'],
     [
       // 支持数学公式
       // https://vuepress.github.io/zh/plugins/mathjax/

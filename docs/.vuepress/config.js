@@ -104,6 +104,7 @@ module.exports = {
             items: [
               { text: '4-I Y86-64 指令集体系结构', link: '/note/ch4/Y86-64-ISA' },
               { text: '4-II 逻辑设计与HCL', link: '/note/ch4/logic-design' },
+              { text: '4-III Y86-64 的顺序实现', link: '/note/ch4/seq' },
             ]
           }
         ]

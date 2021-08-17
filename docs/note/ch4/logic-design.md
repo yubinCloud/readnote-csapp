@@ -1,7 +1,7 @@
 ---
 title: Chapter 4 处理器体系结构 II：逻辑设计与硬件控制语言 HCL
-prev: /note/ch4/
-next: /note/ch4/logic-design
+prev: /note/ch4/Y86-64-ISA
+next: /note/ch4/seq
 ---
 
 Chapter 4 处理器体系结构 II：逻辑设计与硬件控制语言 HCL

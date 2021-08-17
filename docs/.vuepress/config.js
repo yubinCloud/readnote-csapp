@@ -106,7 +106,8 @@ module.exports = {
               { text: '4-II 逻辑设计与HCL', link: '/note/ch4/logic-design' },
               { text: '4-III Y86-64 的顺序实现', link: '/note/ch4/seq' },
             ]
-          }
+          },
+          { text: '5-优化程序性能', link: '/note/ch5/' },
         ]
       },
       {

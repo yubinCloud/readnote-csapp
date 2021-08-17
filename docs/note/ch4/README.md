@@ -1,6 +1,7 @@
 ---
 title: Chapter 4 处理器体系结构
 prev: /note/ch3/data
+next: /note/ch4/Y86-64-ISA
 ---
 
 Chapter 4 处理器体系结构

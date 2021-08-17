@@ -31,3 +31,5 @@ footer: GNU Licensed | Copyright © 2021-present yubin
 + [I Y86-64 指令集体系结构](/readnote-csapp/note/ch4/Y86-64-ISA)
 + [II 逻辑设计和硬件控制语言 HCL](/readnote-csapp/note/ch4/logic-design)
 + [III Y86-64 的顺序实现](/readnote-csapp/note/ch4/seq)
+
+[Chapter 5 优化程序性能](/note/ch5/)

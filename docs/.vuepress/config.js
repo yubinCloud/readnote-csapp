@@ -2,7 +2,7 @@ module.exports = {
   title: 'CSAPP Readnote',
   description: 'Just playing around',
   base: '/readnote-csapp/',
-  theme: 'antdocs',
+  // theme: 'antdocs',
 
   head: [
     ['link', { rel: 'icon', href: `/favicon.ico` }],
@@ -43,7 +43,7 @@ module.exports = {
       serviceWorker: true,
       updatePopup: true
     }],
-    'img-lazy',
+    // 'img-lazy',
     // [
     //   "vuepress-plugin-comment",
     //   {

@@ -33,3 +33,9 @@ footer: GNU Licensed | Copyright © 2021-present yubin
 + [III Y86-64 的顺序实现](/readnote-csapp/note/ch4/seq)
 
 [Chapter 5 优化程序性能](/note/ch5/)
+
+[Chapter 7 链接](/note/ch7/)
+
+袁春风版：
++ [I 可执行文件生成概述](/readnote-csapp/note/ch7/yuan/overall)
++ [II 目标文件格式](/readnote-csapp/note/ch7/yuan/elf)

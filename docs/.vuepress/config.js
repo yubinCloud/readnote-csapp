@@ -83,7 +83,7 @@ module.exports = {
 
     nav: [
       {
-        text: '章节列表 ∨',
+        text: 'PART I',
         items: [
           { text: '2-信息的处理与表示', link: '/note/ch2/' },
           {
@@ -106,6 +106,13 @@ module.exports = {
             ]
           },
           { text: '5-优化程序性能', link: '/note/ch5/' },
+        ]
+      },
+      {
+        text: 'PART II',
+        items: [
+          { text: '7-I 可执行文件生成概述', link: '/note/ch7/yuan/overall' },
+          { text: '7-II 目标文件格式', link: '/note/ch7/yuan/elf' },
         ]
       },
       {

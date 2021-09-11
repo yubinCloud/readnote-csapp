@@ -111,8 +111,13 @@ module.exports = {
       {
         text: 'PART II',
         items: [
-          { text: '7-I 可执行文件生成概述', link: '/note/ch7/yuan/overall' },
-          { text: '7-II 目标文件格式', link: '/note/ch7/yuan/elf' },
+          {
+            text: '7-链接',
+            items: [
+              { text: '7-I 可执行文件生成概述', link: '/note/ch7/yuan/overall' },
+              { text: '7-II 目标文件格式', link: '/note/ch7/yuan/elf' },
+            ]
+          },
         ]
       },
       {

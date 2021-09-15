@@ -116,6 +116,7 @@ module.exports = {
             items: [
               { text: '7-I 可执行文件生成概述', link: '/note/ch7/yuan/overall' },
               { text: '7-II 目标文件格式', link: '/note/ch7/yuan/elf' },
+              { text: '7-III 符号解析与重定位', link: '/note/ch7/yuan/link' },
             ]
           },
         ]

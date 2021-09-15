@@ -39,3 +39,4 @@ footer: GNU Licensed | Copyright © 2021-present yubin
 袁春风版：
 + [I 可执行文件生成概述](/readnote-csapp/note/ch7/yuan/overall)
 + [II 目标文件格式](/readnote-csapp/note/ch7/yuan/elf)
++ [III 符号解析与重定位](/readnote-csapp/note/ch7/yuan/link)
